@@ -4,7 +4,7 @@ author: Ken Stevens
 pubDatetime: 2024-12-19T13:26:00Z
 featured: true
 tags:
-  - 1 Tumothy
+  - 1 Timothy
 ---
 
 (1Ti 4:2)  through the insincerity of liars whose consciences are seared,
