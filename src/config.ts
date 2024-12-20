@@ -1,9 +1,9 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "astro-devotions.vercel.app", // replace this with your deployed domain
   author: "Ken Stevens",
-  profile: "https://satnaing.dev/",
+  profile: "",
   desc: "A site/blog which contain devotions for family and churcg.",
   title: "My Devotions",
   ogImage: "astropaper-og.jpg",
