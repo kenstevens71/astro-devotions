@@ -7,6 +7,8 @@ tags:
   - 1 Tumothy
 ---
 
+(1Ti 4:2)  through the insincerity of liars whose consciences are seared,
+
 In I Timothy 4:2, Paul speaks of people searing or cauterizing their
 consciences with a hot iron. Willard Gaylin writes that "the failure to feel
 guilt is the basic flaw in the psychopath, or antisocial person, who is
