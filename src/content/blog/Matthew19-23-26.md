@@ -1,7 +1,7 @@
 ---
 title: Matthew 19:23-26
 author: Ken Stevens
-pubDatetime: 2924-12-20T10:23:00Z
+pubDatetime: 2024-12-20T10:23:00Z
 featured: true
 tags:
   - Matthew
